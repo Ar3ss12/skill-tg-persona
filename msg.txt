@@ -1,1 +1,1 @@
-refactor: restructure project with README and LICENSE, rename to Persona Mirror TG  
+docs: total overhaul of README and repository structure  
