@@ -48,8 +48,10 @@
 
 - `skill-tg-persona/` — основной скілл (модуль) для [OpenClaw](https://github.com/Ar3ss12/openclaw).
   - `SKILL.md` — зашифрованная логика и этапы процесса.
+  - `prompts/` — системные промпты для Claude и GPT под этот скілл.
+  - `tools/VISUAL_DNA.md` — методология анализа визуального стиля через Vision AI.
   - `references/TG_STYLE_TEMPLATE.md` — чистый шаблон в стиле "нотации для себя".
-  - `references/vntralpha_example.md` — живой пример анализа реального Solana-канала (@vntralpha).
+  - `references/vntralpha_example.md` — живой пример анализа (@vntralpha).
 
 ---
 

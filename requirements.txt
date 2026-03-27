@@ -1,8 +1,0 @@
-# OpenClaw-compatible Style Analyst Requirements
-# This is a markdown-based skill, but it works best with these tools:
-
-openclaw>=1.9.0
-langchain>=0.1.0
-pydantic>=2.0.0
-python-dotenv>=1.0.0
-requests>=2.31.0

@@ -1,1 +1,1 @@
-docs: total overhaul of README and repository structure  
+feat: add system prompts for Claude/GPT and Visual DNA methodology  
